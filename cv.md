@@ -63,4 +63,4 @@ Military service in the French Foreign Legion
 ```			
 ===
 ## MY PROJECTS
-https://vega2307.github.io/my_progect_1/
+https://vega2307.github.io/netology/
